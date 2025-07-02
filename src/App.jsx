@@ -4,7 +4,7 @@ import { Sparkles, Zap, Crown, Cpu } from "lucide-react";
 const App = () => {
     return (
         <div className="min-h-screen bg-gradient-to-br from-slate-900 via-gray-900 to-black relative overflow-hidden text-white">
-            {/* Background Effects */}
+            {/* Background Effects of hero section */}
             <div className="absolute inset-0 pointer-events-none">
                 <div className="bg-[radial-gradient(circle_at_20%_30%,rgba(251,191,36,0.08),transparent_50%)] absolute inset-0" />
                 <div className="bg-[radial-gradient(circle_at_80%_70%,rgba(217,119,6,0.06),transparent_50%)] absolute inset-0" />
