@@ -1,6 +1,6 @@
 import Home from "./components/Home";
 import { Sparkles, Zap, Crown, Cpu } from "lucide-react";
-
+// App.js
 const App = () => {
     return (
         <div className="min-h-screen bg-gradient-to-br from-slate-900 via-gray-900 to-black relative overflow-hidden text-white">
@@ -57,7 +57,7 @@ const App = () => {
                     <div className="w-32 h-0.5 bg-gradient-to-r from-transparent via-amber-400 to-transparent mx-auto mb-8 shadow-sm shadow-amber-400/50" />
 
                     <p className="text-lg max-w-3xl mx-auto font-light text-gray-300">
-                        AI-powered image enhancement platform tailored for professional creatives
+                        AI-powered image enhancement platform tailored for professional creatives 
                     </p>
 
                     <div className="mt-10 flex flex-wrap justify-center gap-5">
